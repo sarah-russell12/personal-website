@@ -1,0 +1,13 @@
+*** Color Palette by Paletton.com ***
+- Primary color: Hue 315
+	- Lighter: #A66FA6
+	- Light: #8A458A
+	- Mid: #6F256F
+	- Dark: #530E53
+	- Darker: #370037
+- Compliment color: Hue 135
+	- Lighter: #E8F6A4
+	- Light: #BCCD67
+	- Mid: #91A437
+	- Dark: #6A7B15
+	- Darker: #445200

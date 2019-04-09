@@ -1,4 +1,8 @@
 /* header content */
+/* body {
+	background-color: #370037;
+} */
+
 
 .head {
 	background-color: #370037;
@@ -12,7 +16,7 @@ header {
 
 h1 {
 	text-align: center;
-	padding-top: 25px;
+	padding-top: 50px;
 	padding-bottom: 10px;
 	font-family: Georgia;
 	font-size: 40px;
@@ -90,6 +94,10 @@ footer {
 	padding-right: 25px;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	height: 100px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
 }
 
 footer nav li {

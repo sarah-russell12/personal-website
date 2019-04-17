@@ -1,0 +1,26 @@
+.resume-header {
+	text-align: center;
+	color: #6F256F;
+}
+
+.left-side {
+	float: left;
+	width: 50%;
+	background-color: #FFFFFF;
+}
+
+.right-side {
+	float: left;
+	width: 50%;
+	background-color: #FFFFFF;
+}
+
+.content:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.resume-section {
+	padding: 10px;
+}

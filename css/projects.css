@@ -1,0 +1,28 @@
+.project-header {
+	color: #6F256F;
+}
+
+.content:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.project-section {
+	padding: 10px;
+}
+
+h3 {
+	text-align: left;
+	font-family: Georgia;
+	font-size: 24px;
+}
+
+h3 a {
+	text-decoration: none;
+	color: #6F256F;
+}
+
+h3 a:hover {
+	color: #7B9F35;
+}
